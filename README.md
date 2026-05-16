@@ -2,9 +2,9 @@
 
 An autonomous fiction-book generation capability for Claude Code. Give it a premise, get a full-length novel (or series).
 
-## Status: Design Locked — Ready to Build
+## Status: Scaffolded — Ready to Outline the First Book
 
-All 11 design decisions are locked in below. The knowledge library, skill, subagents, and the first test book have not been built yet — next session is the implementation kickoff.
+All 11 design decisions locked. The knowledge library, 8 subagent definitions, skill, templates, continuity-index builder, and first book project (`books/the-cartographer/`) are scaffolded and the index builder is smoke-tested. Next step: invoke the skill to run the outline pass (world-builder → character-designer → plotter) on the test book.
 
 ---
 
@@ -35,14 +35,31 @@ Each time you wrap a session, commit and push the README updates so the next ses
 | 10 | Subagent roster | **8 agents:** `plotter`, `world-builder`, `character-designer`, `drafter`, `line-editor`, `continuity-checker` (facts/timeline/character knowledge), `foreshadowing-tracker` (setup→payoff graph, Chekhov's guns, planted clues, character promises), `voice-scrubber` (anti-AI-tells + cadence). |
 | 11 | First test book | **Epic fantasy, book 1 of a series, ~140k words.** Premise: *a disgraced cartographer is hired to map a continent that rewrites itself every generation.* Exercises every part of the system on the first run — world-building, magic-system rigor, series-state tracking, foreshadowing across a multi-book arc, and voice over a long form. Highest-ambition validation case; if it works here it works anywhere. |
 
-## Next steps (implementation kickoff)
+## Build state (what's in the repo)
 
-1. **Scaffold the repo layout** below (`/library`, `/skill`, `/subagents`, `/templates`, `/books`).
-2. **Seed the knowledge library** from training-data craft sources first (King, Sanderson, McKee, Save the Cat, Snowflake, Hero's Journey, genre conventions, anti-AI tells, author voice profiles). Defer Firecrawl-sourced material to a second pass.
-3. **Write the 8 subagent definitions** (plotter, world-builder, character-designer, drafter, line-editor, continuity-checker, foreshadowing-tracker, voice-scrubber) with clear inputs/outputs and the continuity contract from row 9.
-4. **Build the skill** at `~/.claude/skills/fiction-writer` — entry points for `new-book`, `outline`, `draft-chapter`, `continuity-pass`, `revise-to-target`, `export`.
-5. **Build the markdown↔SQLite continuity index** (rebuild-on-demand, used by continuity-checker and foreshadowing-tracker).
-6. **Generate the test book** (row 11) end-to-end; treat anything that breaks as a library/subagent gap to fix.
+| Piece | State | Path |
+|-------|-------|------|
+| Repo layout scaffold | done | `/library`, `/skill`, `/subagents`, `/templates`, `/tools`, `/books` |
+| Anti-AI tells catalog + scrub rules | done | `library/anti-ai/{tells-catalog,scrub-rules}.md` |
+| Story-structure references | done | `library/story-structure/` (4 files) |
+| Character craft references | done | `library/character/` (4 files) |
+| Prose craft references | done | `library/prose/` (4 files) |
+| World-building references | done | `library/world-building/` (4 files) |
+| Genre cheat-sheets | done | `library/genre/` (8 files — all major genres) |
+| Author voice profiles | done | `library/voice/` (6 authors: King, McCarthy, Sanderson, Le Guin, GRRM, Tartt) |
+| 8 subagent definitions | done | `subagents/*.md` |
+| Skill entry document | done | `skill/SKILL.md` |
+| Templates | done | `templates/{intent,character-sheet,chapter-brief,series-bible-readme}.md` |
+| Continuity-index builder | done + smoke-tested | `tools/build_continuity_index.py` |
+| Test book project (`the-cartographer`) | scaffolded + intent.md written | `books/the-cartographer/` |
+
+## Next steps
+
+1. **Install the skill and subagents.** Copy `skill/` to `~/.claude/skills/fiction-writer/` and `subagents/*.md` to the appropriate agent location (project `.claude/agents/` or user-global). Both can be done with symlinks for live-edit.
+2. **Run the outline pass on `books/the-cartographer/`**: world-builder → character-designer → plotter. Stop for human review of the world bible, cast, beat sheet, and setup→payoff graph.
+3. **Iterate on the library** as gaps surface (a missing voice profile, a thin genre file, a scrub rule that misfires). Treat the library as a living reference, not a freeze.
+4. **Draft chapter 1.** First end-to-end test of the pipeline: plotter brief → drafter → voice-scrubber → line-editor → continuity-checker → foreshadowing-tracker. Use what breaks to refine the subagents.
+5. **Scale up.** Drift toward full-book completion; run `revise-to-target` and `export` at the end.
 
 ## Original goals (from the user's ask)
 
