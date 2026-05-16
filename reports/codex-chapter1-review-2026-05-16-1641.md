@@ -1,0 +1,9 @@
+[P0] Paragraph 66, “walk away with clean hands” ? This hits the banned construction pattern `with a [adjective] [body part]`. Fix: `There were a thousand ways to put a knife in a man and leave nothing on your skin.`
+
+[P1] Paragraph 93, “She thought about leaving it… She thought about leaving it… She thought about Lo’s drawer… she thought about it…” ? Maren’s second-guessing doctrine becomes a visible tic through repeated identical sentence starts. Fix: `Leave it on the stones. Any sensible girl would. But Lo’s drawer was waiting at home: three small Cant-issue blades, one with a chip at the heel.`
+
+[P1] Paragraph 173, final interior beat before the lie ? The Maren doctrine is over-applied: repeated `which was`, repeated `every morning of every day of nine years`, and a three-part `She thought:` stack turn texture into machinery. Fix: cut to: `The knife pressed inside her cuff. The block stood two-of-three by the stove. Lo had asked the morning question. Maren thought of the bare wall above her cot, the lamp, the loose pine board behind it. Not yet.`
+
+[P1] Footers, `continuity-notes-for-next-chapter` ? The footer claims “Lo has poured tea, asked Maren to tell her where she went,” but Lo never asks that on-page, so the handoff invents an unresolved question. Fix: change to `Chapter ends mid-conversation: Lo has poured tea after asking whether Maren has eaten; Maren has lied. Lo has not yet asked where she went.`
+
+[P2] Paragraph 123, “for fifty years probably” ? This is a mild hedge in a moment where the catalog warns against AI-ish hedging, and Maren does not need the estimate. Fix: `for fifty years` or `for as long as Maren had known the sound.`
