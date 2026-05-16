@@ -72,7 +72,14 @@ first appearance: chapter <n>
 What this character knows at start of book. Updated by continuity-checker as chapters draft.
 ```
 
-- `cast-index.md` — table of all characters with role, POV flag, and first appearance.
+- `cast-index.md` — table of all characters with **canonical name**, `file` (the sheet's filename relative to `series-bible/characters/`, e.g. `maren.md`), role, POV flag, and first appearance. The `file` column is required for every major character with a sheet — the drafter and continuity-checker resolve sheets through this column rather than guessing slugs from names. Required table header:
+
+  ```
+  | Name | File | Role | POV | First appearance | One-line stake |
+  |------|------|------|-----|------------------|----------------|
+  ```
+
+  Walk-on characters listed in cast-index but without sheets leave the `File` cell as `—`.
 
 ## Continuity contract
 

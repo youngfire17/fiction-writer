@@ -4,7 +4,7 @@ An autonomous fiction-book generation capability for Claude Code. Give it a prem
 
 ## Status: Scaffolded — Ready to Outline the First Book
 
-All 11 design decisions locked. The knowledge library, 8 subagent definitions, skill, templates, continuity-index builder, and first book project (`books/the-cartographer/`) are scaffolded and the index builder is smoke-tested. Next step: invoke the skill to run the outline pass (world-builder → character-designer → plotter) on the test book.
+All 11 design decisions locked. The knowledge library, 8 subagent definitions, skill, templates, continuity-index builder, and first book project (`books/the-forgetting-wing/`) are scaffolded and the index builder is smoke-tested. The earlier `books/the-cartographer/` candidate is archived under `books/_archive/`. Chapter 1 of *The Forgetting Wing* has been drafted end-to-end through the full pipeline.
 
 ---
 

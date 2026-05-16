@@ -116,13 +116,13 @@ Run a full-book continuity audit. Useful after major edits or before finalizatio
 ### `revise-to-target [<word-count>]`
 
 Two-stage revision (per design decision 8):
-1. Read the full manuscript. Identify thin sections (under-developed scenes, rushed emotional beats) and bloated sections (digressions, overlong description).
+1. Read every chapter file directly from `books/<slug>/chapters/chapter-*.md` (in order). The manuscript stitch from `export` is a derived artifact and may not exist yet — operate on the canonical chapter files. Identify thin sections (under-developed scenes, rushed emotional beats) and bloated sections (digressions, overlong description) chapter by chapter.
 2. Hand-craft expand/tighten directives per chapter. Re-run the drafter on affected chapters; re-run scrub/line-edit/continuity on each revised chapter.
-3. Stop when word count is within ±5% of target AND every chapter still passes continuity.
+3. Stop when total word count (summed across chapters) is within ±5% of target AND every chapter still passes continuity.
 
 ### `export`
 
-Stitch `chapters/*.md` into `manuscript.md` (insert chapter titles, drop footer comments). Run `pandoc manuscript.md -o manuscript.pdf` with a fiction-typeset template.
+Stitch `chapters/*.md` into `manuscript.md` (insert chapter titles, drop HTML-comment footers). Run `pandoc manuscript.md -o manuscript.pdf` using pandoc's default LaTeX template. A custom fiction-typeset template is optional — if the user has placed one at `templates/pandoc/fiction.latex` (not provided in the scaffold), pass it with `--template templates/pandoc/fiction.latex`; otherwise use the default.
 
 ## Continuity contract (read this every session)
 

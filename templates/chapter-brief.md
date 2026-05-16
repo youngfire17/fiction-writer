@@ -7,9 +7,11 @@ This document is produced by the orchestrator from the plotter's outputs + curre
 - chapter: <NN>
 - pov: <character name>
 - target words: <e.g. 4000 — loose>
-- in-world time: <date, time of day, season>
-- location(s): <primary, then any change locations>
+- in-world time: <date, time of day, season>  ← flows into the chapter footer's `in-world-time:` key verbatim
+- location(s): <primary, then any change locations>  ← primary flows into the footer's `location:` key
 - voice-profile-active: <library/voice/<author>.md | genre-default>
+
+> The drafter writes a chapter footer (HTML comment) using the exact key names defined in `subagents/drafter.md`. Two of those keys — `in-world-time:` and `location:` — come straight from this brief. A third — `characters-present:` — comes from the "Other characters present" table below plus the POV character. Use canonical character names from `series-bible/characters/cast-index.md` so the continuity index can match them.
 
 ## Beat(s) this chapter advances
 

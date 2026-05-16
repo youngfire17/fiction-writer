@@ -31,10 +31,13 @@ Write to `books/<slug>/plot/`:
 
 - `beat-sheet.md` — the beats with positions, POVs, and what changes.
 - `chapter-list.md` — tentative chapters with POV tags and beat assignments.
-- `setup-payoff.md` — the graph: each setup row links to its payoff chapter. Format:
+- `setup-payoff.md` — the graph: each setup row links to its payoff chapter. The continuity-index parser reads this table. Use exactly this 7-column schema (header + alignment row, then data rows):
   ```
-  | id | setup (ch, what) | payoff (ch, what) | type | status |
+  | id | description | type | planted (ch, what) | payoff (ch, what) | status | notes |
+  |----|-------------|------|--------------------|--------------------|--------|-------|
+  | S-001 | <thing being set up> | chekhov | clue | promise | threat | capability | theme | ch N: <how planted> | ch M: <how fired> | planted | armed | fired | defer:book-N | abandoned-with-justification | <free text> |
   ```
+  IDs ascend `S-001`, `S-002`, ... Every row in the same book must share this exact column count. The foreshadowing-tracker and `tools/build_continuity_index.py` parse this file and silently skip rows with the wrong column count, so deviations get dropped without warning.
 - `framework-notes.md` — one paragraph on why you picked this framework, what you cut, and what genre conventions you're consciously breaking and why.
 
 ## Continuity contract

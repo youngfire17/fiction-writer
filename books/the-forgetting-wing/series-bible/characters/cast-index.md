@@ -4,16 +4,16 @@ Use for: quick lookup. Every named character in book 1. Full sheets exist for ma
 
 ## Full sheets (major characters)
 
-| Name | Role | POV | First appearance | One-line stake |
-|------|------|-----|------------------|----------------|
-| Maren Vasse | co-protagonist | yes | ch 1 | Wakes with three days of memory she should not have, a paring knife, and a body; if she finds out what she actually did, she has to decide whether to live remembering or turn herself in. |
-| Sael Korrin | co-protagonist / antagonist-to-Maren | yes | ch 2 | The Wing's youngest Inquisitor must close the Sennet's Alley case under protocol to honor the institution that raised him; if the institution is lying, his identity is the lie. |
-| Iven Telleg | victim | no (deceased) | ch 1 (corpse), ch 16 (journal) | A W-I cartographer who began keeping names died with thirty-nine of them in his head and one rice-paper page in a mouse cage; he is the case and a person and both have to land. |
-| Lo Vasse | guardian / withholding ally / mirror foil to Maren | no | ch 1 | Maren's aunt has been protecting her by silence for five years; the case forces Lo to either say what Eira asked her to say or watch Maren learn it the hard way. |
-| Iren Hael | Sael's supervisor / mentor / mirror foil to Sael | no | ch 2 | A twenty-eight-year veteran Inquisitor on the edge of retirement, kept in the dark about his own wife's death; he is the man Sael wants to become, and his break is the engine of book 2. |
-| Pell Andren-Vell | Rememberer / mentor / Maren's stitch contact | no | ch 5 (mentioned), ch 8 (on-page) | Ex-Wing cartographer turned Marrow Quarter stitch-cutter, holding for five years what Eira asked her to give Maren; she pays the price of finally giving it. |
-| Halver Mire | orchestrator / book-1 shadow antagonist | no | not on-page in book 1; presence felt from ch 1 (file routing) through ch 22 (initials on a routing slip) | The Ministry deputy who set up the murder, the frame, and the assignment; book 1 is one move in his thirty-year game against the Chair. |
-| Treysa Vinn | rival Inquisitor / Sael's contrast foil | no | ch 4 | An eighteen-year-old Inquisitor at peace with what Sael cannot yet be at peace with; she is the picture of the room Sael is walking into, and her clean conservatism is the foil that closes the negative arc. |
+| Name | File | Role | POV | First appearance | One-line stake |
+|------|------|------|-----|------------------|----------------|
+| Maren Vasse | maren.md | co-protagonist | yes | ch 1 | Wakes with three days of memory she should not have, a paring knife, and a body; if she finds out what she actually did, she has to decide whether to live remembering or turn herself in. |
+| Sael Korrin | sael.md | co-protagonist / antagonist-to-Maren | yes | ch 2 | The Wing's youngest Inquisitor must close the Sennet's Alley case under protocol to honor the institution that raised him; if the institution is lying, his identity is the lie. |
+| Iven Telleg | iven-telleg.md | victim | no (deceased) | ch 1 (corpse), ch 16 (journal) | A W-I cartographer who began keeping names died with thirty-nine of them in his head and one rice-paper page in a mouse cage; he is the case and a person and both have to land. |
+| Lo Vasse | lo-vasse.md | guardian / withholding ally / mirror foil to Maren | no | ch 1 | Maren's aunt has been protecting her by silence for five years; the case forces Lo to either say what Eira asked her to say or watch Maren learn it the hard way. |
+| Iren Hael | iren-hael.md | Sael's supervisor / mentor / mirror foil to Sael | no | ch 2 | A twenty-eight-year veteran Inquisitor on the edge of retirement, kept in the dark about his own wife's death; he is the man Sael wants to become, and his break is the engine of book 2. |
+| Pell Andren-Vell | pell-andren-vell.md | Rememberer / mentor / Maren's stitch contact | no | ch 5 (mentioned), ch 8 (on-page) | Ex-Wing cartographer turned Marrow Quarter stitch-cutter, holding for five years what Eira asked her to give Maren; she pays the price of finally giving it. |
+| Halver Mire | halver-mire.md | orchestrator / book-1 shadow antagonist | no | not on-page in book 1; presence felt from ch 1 (file routing) through ch 22 (initials on a routing slip) | The Ministry deputy who set up the murder, the frame, and the assignment; book 1 is one move in his thirty-year game against the Chair. |
+| Treysa Vinn | treysa-vinn.md | rival Inquisitor / Sael's contrast foil | no | ch 4 | An eighteen-year-old Inquisitor at peace with what Sael cannot yet be at peace with; she is the picture of the room Sael is walking into, and her clean conservatism is the foil that closes the negative arc. |
 
 ## Walk-on and named-but-not-sheeted characters
 

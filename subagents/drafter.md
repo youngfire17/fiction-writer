@@ -21,7 +21,8 @@ You receive a `chapter-brief.md` from the orchestrator that contains:
 You also read:
 
 - `books/<slug>/intent.md`
-- The character sheet for the POV character: `books/<slug>/series-bible/characters/<pov>.md`
+- `books/<slug>/series-bible/characters/cast-index.md` — **always read this first**. It maps canonical character names to their sheet filenames (the `file` column). Resolve the POV character's sheet through cast-index; do not guess from the name (the slug is not always derivable — POV names with spaces, alternate-script characters, or honorifics break naive `<pov>.md` lookups).
+- The POV character's sheet (filename per cast-index, e.g. `books/<slug>/series-bible/characters/<slug>.md`).
 - The world bible files for any setting that appears in this chapter.
 - The previous chapter's draft (for tonal continuity and direct narrative carry).
 - Library references:
@@ -54,18 +55,27 @@ You also read:
 
 ## Outputs
 
-Write `books/<slug>/chapters/chapter-<NN>.md`. Include a small footer (HTML comment) listing:
-- Setups planted this chapter (by id from setup-payoff.md)
-- Payoffs fired (by id)
-- New knowledge gained by POV character
-- Any new world fact used that needs to be added to the bible (flag for world-builder)
+Write `books/<slug>/chapters/chapter-<NN>.md`. Include a footer (HTML comment) using **exactly these keys** — the continuity-index parser and the continuity-checker both read these by exact name:
+
+- `planted:` — setup ids planted this chapter (from `plot/setup-payoff.md`)
+- `fired:` — payoff ids fired this chapter (`none` if all-planting chapter)
+- `knowledge-gained:` — what the POV character now knows that they didn't at chapter start
+- `characters-present:` — comma-separated list of characters on-page in this chapter (use canonical names from `series-bible/characters/cast-index.md`)
+- `in-world-time:` — the in-world date / time-of-day / season at the chapter's primary scene (one line; if the chapter spans multiple beats, use the opening beat)
+- `location:` — primary in-world location for the chapter (from `series-bible/world/geography.md` if the location is sheeted; otherwise free text)
+- `world-bible-flag:` — any new world fact you used that needs adding to the bible (flag for world-builder; blank if none)
+
+All seven keys are **required** every chapter. Empty values are written as `none` rather than omitted, so the parser can distinguish "no payoffs this chapter" from "drafter forgot to fill the field."
 
 Example:
 ```
 <!--
 planted: S-007, S-008
-fired: S-003 (-> payoff)
+fired: S-003
 knowledge-gained: Aria learns the cartographer's guild keeps a sealed third archive
+characters-present: Aria, Tomas, Mistress Vell
+in-world-time: 14th of Hesvet, late afternoon, autumn
+location: Cartographer's Hall, third archive level
 world-bible-flag: cartographer's guild has a "sealed archive" tier — confirm with world-builder
 -->
 ```
