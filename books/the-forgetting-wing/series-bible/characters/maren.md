@@ -60,7 +60,7 @@ She mistakes her own moral self-suspicion for moral seriousness. When a thing go
 
 ## Physical
 
-Seventeen. Short for her age, narrow through the shoulders, with the wiry forearms of someone who has carried a Lowmaren grandmother's grocery loads up four flights of Helvet Stair her whole life. Black hair she cuts herself at the nape with kitchen scissors — uneven, deliberately. Pale port-resin behind her left ear like every Tier Three; the resin is slightly yellowed on her, an old discoloration she cannot account for and has never asked about (Lo could tell her, doesn't). A small chemical burn on the back of her left wrist from helping Lo at the clinic at fourteen. She walks heel-first, soft, like someone who has learned not to be heard in a hallway.
+Seventeen. Short for her age, narrow through the shoulders, with the wiry forearms of someone who has carried a Lowmaren grandmother's grocery loads up four flights of Helvet Stair her whole life. Black hair she cuts herself at the nape with kitchen scissors — uneven, deliberately. Pale port-resin behind her left ear like every Tier Three; the resin is slightly yellowed on her, an old discoloration she cannot account for and has never asked about (Lo could tell her, doesn't). A small chemical burn on the back of her left wrist from helping Lo at the clinic at fourteen. After each Annual Consolidation Review she wears a recovery sleeve on the left wrist over the IV-access site for several days — the small clinical detail of the Wing's procedure that even Tier Three citizens carry home (ratified per ch 1 continuity pass). She walks heel-first, soft, like someone who has learned not to be heard in a hallway.
 
 ## Arc beats
 
@@ -94,6 +94,15 @@ Initial state at book open (continuity-checker owns updates after drafting begin
   - That stitch is produced inside the same manufactories that produce Lethonal-7.
   - That Pell, the Rememberer she will meet, sold her the stitch she took before her last Review on Lo's quiet referral, and that this was the third time Pell has done so.
   - The existence of Wing-Internal, the Cold Archive, Floor Minus Eleven, or Andren Sault.
+
+### Updates after ch 1 (continuity-checker, post-draft)
+
+- **now holds, but has not reported:** there is a dead adult man at the dark end of Sennet's Alley with a single wound below the third button of his grey wool coat, frost on his sleeve (cold has had time — not minutes); she does not know him; she has set the paring knife from her hand wrapped against her own forearm inside her cuff and carried it home up Helvet Stair.
+- **now actively present, not theoretical:** the three remembered days are surfacing at angles since the second morning after Review. One drift-fragment has now surfaced on-page (S-023 seed): bread-smell on the Lowmaren wind, a doorway with a metal lip, a hand near her shoulder not touching her, the lip of the doorway high enough she had to step up. She does not yet know whose hand or which doorway.
+- **rhyme registered as menace for the first time:** the third line — *one little day for the city's sake* — has gone into Maren in a place it had never gone before. She has not articulated what she now hears in it.
+- **first on-page lie to Lo:** "I had bread on the way. At the corner." (Lo poured tea; Maren has not removed her coat; the knife is still wrapped against her forearm inside her cuff.)
+- **the empty third slot in the kitchen knife block** has been seen and not-named: Maren registered the size of the slot matches the size of the knife wrapped against her forearm; she has chosen not to look at the block twice and not to think about which knife has the chip at the heel.
+- **knowledge route-of-Lo ratified:** Lo told her once at the table that the dead end of Sennet's Alley has no camera. Maren had filed it without filing it; on the night of ch 1 she registered that *someone else had also filed it and used it.*
 
 ## Relationships
 

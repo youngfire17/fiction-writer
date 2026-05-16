@@ -185,13 +185,15 @@ def load_events_from_chapter_footers(book_dir: Path, conn: sqlite3.Connection) -
     chapters_dir = book_dir / "chapters"
     if not chapters_dir.exists():
         return
-    for path in sorted(chapters_dir.glob("chapter-*.md")):
+    for path in sorted(chapters_dir.glob("*.md")):
+        if not re.match(r"^(chapter-)?\d+\.md$", path.name):
+            continue
         text = path.read_text(encoding="utf-8")
         m = re.search(r"<!--(.*?)-->", text, re.DOTALL)
         if not m:
             continue
         footer = m.group(1)
-        ch_match = re.search(r"chapter-(\d+)", path.name)
+        ch_match = re.search(r"(\d+)", path.name)
         chapter_n = int(ch_match.group(1)) if ch_match else None
         summary_match = re.search(r"knowledge-gained:\s*(.+)", footer)
         present_match = re.search(r"characters-present:\s*(.+)", footer)

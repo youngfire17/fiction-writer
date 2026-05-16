@@ -60,7 +60,12 @@ The Wing's exterior is famously beautiful — citizens take wedding photographs 
 ### Sennet's Alley
 type: alley
 region: Cant, off Helvet Stair, two blocks down
-The alley where Maren wakes with the body. Narrow, dead-ending at a brick wall behind a closed dye-works. Smell: wet brick, old indigo, the bread-steam from the Lowmaren wind. A single working sodium lamp at the mouth, dark at the closed end. The body lies at the dark end. No camera covers the dead end — a Civic Order maintenance gap that has been logged and unfixed for three years. Someone knew that.
+The alley where Maren wakes with the body. Narrow, dead-ending at a brick wall behind a closed dye-works. Smell: wet brick, old indigo, the bread-steam from the Lowmaren wind. A single working sodium lamp at the mouth, dark at the closed end. The body lies at the dark end. No camera covers the dead end — a Civic Order maintenance gap that has been logged and unfixed for three years. Someone knew that. The route-of-knowledge through Lo is canon as of ch 1: Lo mentioned the camera-gap once at the table with the bitterness she uses for State things, and Maren filed it without filing it.
+
+### Helvet Stair
+type: stairwell / vertical street
+region: Cant, middle ring
+The four-flights-plus-roof stairwell up which Maren's flat at 17 Helvet Stair sits. Stone treads, iron-edged risers. Smell: boiled cabbage (the Yedrins, first floor) and resin sealant (Lo's hands and thirty years of clinic hands going up and down). The seventh tread of the top flight has a hairline crack Maren has known about since she was eight; stepping over it is a Cant-child habit and a marker of her trained-foot competence. (Ratified per ch 1 drafter flag.)
 
 ### Clinic Andren-Vell
 type: clinic
