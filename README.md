@@ -33,7 +33,7 @@ Each time you wrap a session, commit and push the README updates so the next ses
 | 8 | Length control | **Plot first, then trim/expand to target.** Draft the outline to plot completion without a word-count gate, then run a revision pass that expands thin sections and tightens bloated ones to land in the genre band (or user-specified target). Two-stage so plot integrity isn't sacrificed for length. |
 | 9 | Whole-book continuity | **First-class requirement, not a single pass.** The story must hold together from page 1 to the final line — causality, character knowledge, timeline, foreshadowing/payoff, world rules. Enforced by: (a) the markdown series bible + SQLite index as ground truth, (b) the plotter producing a beat sheet with explicit setup/payoff links before drafting, (c) the drafter receiving a per-chapter "what's known to whom, what's been set up, what must pay off" brief, (d) a continuity-checker pass after each chapter and a full-book pass before finalization. |
 | 10 | Subagent roster | **8 agents:** `plotter`, `world-builder`, `character-designer`, `drafter`, `line-editor`, `continuity-checker` (facts/timeline/character knowledge), `foreshadowing-tracker` (setup→payoff graph, Chekhov's guns, planted clues, character promises), `voice-scrubber` (anti-AI-tells + cadence). |
-| 11 | First test book | **Epic fantasy, book 1 of a series, ~140k words.** Premise: *a disgraced cartographer is hired to map a continent that rewrites itself every generation.* Exercises every part of the system on the first run — world-building, magic-system rigor, series-state tracking, foreshadowing across a multi-book arc, and voice over a long form. Highest-ambition validation case; if it works here it works anywhere. |
+| 11 | First test book | **Anime-style psychological thriller, open-ended series book 1, ~80k words.** Project: `books/the-forgetting-wing/`. Premise: in a State that erases one day of memory from every citizen each year, a seventeen-year-old wakes with three missing days she somehow remembers and a dead Wing employee at her feet; the Wing's sixteen-year-old Inquisitor, fitted with a polygraph implant, is assigned to find her. Dual alternating close-3rd POV, past tense, biotech-grounded (strictly no paranormal). Craft DNA from Death Note, Attack on Titan, Demon Slayer: visceral, set-piece-built, deep dual-POV character development, mystery + suffering + cat-and-mouse. Earlier candidate (epic-fantasy cartographer, ~140k) archived under `books/_archive/`. |
 
 ## Build state (what's in the repo)
 
@@ -46,20 +46,20 @@ Each time you wrap a session, commit and push the README updates so the next ses
 | Prose craft references | done | `library/prose/` (4 files) |
 | World-building references | done | `library/world-building/` (4 files) |
 | Genre cheat-sheets | done | `library/genre/` (8 files — all major genres) |
-| Author voice profiles | done | `library/voice/` (6 authors: King, McCarthy, Sanderson, Le Guin, GRRM, Tartt) |
+| Author voice profiles | done | `library/voice/` (6 authors: King, McCarthy, Sanderson, Le Guin, GRRM, Tartt) + `anime-thriller.md` register profile for the test book |
 | 8 subagent definitions | done | `subagents/*.md` |
 | Skill entry document | done | `skill/SKILL.md` |
 | Templates | done | `templates/{intent,character-sheet,chapter-brief,series-bible-readme}.md` |
 | Continuity-index builder | done + smoke-tested | `tools/build_continuity_index.py` |
-| Test book project (`the-cartographer`) | scaffolded + intent.md written | `books/the-cartographer/` |
+| Test book project (`the-forgetting-wing`) | scaffolded + intent.md written | `books/the-forgetting-wing/` (prior `the-cartographer` archived to `books/_archive/`) |
+| Skill + agents installed | done in this container | `~/.claude/skills/fiction-writer/` and `~/.claude/agents/*.md` symlinked back to repo |
 
 ## Next steps
 
-1. **Install the skill and subagents.** Copy `skill/` to `~/.claude/skills/fiction-writer/` and `subagents/*.md` to the appropriate agent location (project `.claude/agents/` or user-global). Both can be done with symlinks for live-edit.
-2. **Run the outline pass on `books/the-cartographer/`**: world-builder → character-designer → plotter. Stop for human review of the world bible, cast, beat sheet, and setup→payoff graph.
-3. **Iterate on the library** as gaps surface (a missing voice profile, a thin genre file, a scrub rule that misfires). Treat the library as a living reference, not a freeze.
-4. **Draft chapter 1.** First end-to-end test of the pipeline: plotter brief → drafter → voice-scrubber → line-editor → continuity-checker → foreshadowing-tracker. Use what breaks to refine the subagents.
-5. **Scale up.** Drift toward full-book completion; run `revise-to-target` and `export` at the end.
+1. **Run the outline pass on `books/the-forgetting-wing/`**: world-builder → character-designer → plotter, in that order. Stop for human review of the world bible (the State, the Wing, the city, the biotech), the cast (especially Maren and Sael with full sheets and distinct voices), the beat sheet, and the setup→payoff graph.
+2. **Iterate on the library** as gaps surface during outlining — additional anti-AI tells specific to this register, refinements to `library/voice/anime-thriller.md`, a thriller-genre note we missed.
+3. **Draft chapter 1.** First end-to-end pipeline run: plotter brief → drafter → voice-scrubber → line-editor → continuity-checker → foreshadowing-tracker. Use what breaks to refine the subagents and the voice profile.
+4. **Scale up.** Drift toward full-book completion; run `revise-to-target` (80k band) and `export` at the end.
 
 ## Original goals (from the user's ask)
 
