@@ -90,6 +90,26 @@ Lessons learned from *The Forgetting Wing*. The plotter, drafter, and voice-scru
 8. **`library/voice/anime-thriller.md` still applies** for the high-level register goals (close POV, internal monologue forward, action choreography in granular beats, named-techniques-and-systems-in-character, numeric specificity). The deltas above sharpen the execution.
 9. **`library/anti-ai/tells-catalog.md` still binds.** No banned words, no banned constructions. Codex-review pass before any chapter is locked.
 
+## Locked: the Architect (the conspirator's identity)
+
+**The Architect is the Petitioner's former mentor.**
+
+A revered ex-Petitioner, now in his seventies. He founded the modern Petitioner system fifty years ago and has spent the half-century since being celebrated as the system's moral conscience. He trained the Petitioner-we-know as a young man and remains the only person the Petitioner truly trusts. Erys meets him around day 3-4 at the Petitioner's office, where he has come (he says) to help. He takes her under his wing — warm, fatherly, profound. He sits with her on the worst night. He explains the system's history to her. The reader will love him.
+
+He paid for the second slot. He has been gaming the system for decades — the system he himself founded. His motive operates at the level of conviction, not greed: he believes the Ceremony serves a function the public would never accept, and Erys's death is necessary to preserve it. The specific link (why *Erys*, why now) is to be designed by the character-designer and plotter in tandem — preferred shape: she is the daughter of someone he had killed twenty years ago to keep his secret, and her existence is the loose thread that finally has to be cut. Alternative shapes are open if the character-designer surfaces something stronger.
+
+**He is the conspirator-interlude POV.** All 3-4 anonymous interludes are him. The interludes show what the Architect *does* (orders a night attempt, pays a clerk, watches the Petitioner's window from his garden, receives a coded message at dinner) without ever naming him, describing him physically, or locating him in a way that would let a reader connect him to the on-page mentor. The interlude voice must NOT match the mentor's on-page voice exactly — but it should not contradict it either; the careful reader, on a re-read, should be able to feel that the two voices were always the same person.
+
+**Craft contract — binding on the drafter and the voice-scrubber:**
+
+1. **Every on-page scene with the mentor must read both ways.** Warm and lethal, simultaneously. After the reveal, a re-read must find the second meaning in lines that, on first read, played as comfort. Example: "you do not have to be brave today; bravery is what we save for the morning" reads as fatherly comfort on day five and reads as the architect's foreknowledge of the Ceremony morning on re-read.
+2. **His love for both the Petitioner and Erys is REAL, not performed.** He is not a sociopath wearing a mask. He genuinely cares for them. That is what makes the betrayal land. He is killing someone he loves to preserve something he loves more.
+3. **He is the system's true believer.** From his POV he is the protagonist. The book grants him no monologue at the climax. He does not explain himself in soliloquy. The reader pieces his conviction together from his interludes and his actions; Erys and the Petitioner, at the climax, do not get the satisfaction of his confession.
+4. **He is on-page in chapter 5 at the latest.** The reveal cannot work if he arrives in act 2.
+5. **The climax reveal lands without dialogue.** Morning of the Ceremony: the Petitioner walks Erys into the plaza. The mentor is in the front row. He meets her eyes. He smiles at her with love. She understands.
+
+**Why this works (for the drafter to keep in working memory):** the strongest betrayal-reveals are not "the warm character was secretly evil" — they are "the warm character's love was real AND the betrayal was real, and both are true at the same time." Promised Neverland's Mama Isabella. Askeladd in Vinland Saga. The reader's first thought on reveal is not "I should have seen it" but "I want to re-read those scenes." Every mentor scene must be written to survive that re-read.
+
 ## Open notes for the plotter
 
 - **The climax should be the Ceremony morning, not the day before.** Erys and the Petitioner have to walk her *into* the Ceremony plaza — because she chooses to — having put the proof in motion that will save her not by the Petitioner's voice but by the city's. The Death Note Light-vs-L convention: the protagonists choose the field of battle.
