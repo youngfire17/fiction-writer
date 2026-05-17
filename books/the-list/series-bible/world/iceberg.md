@@ -1,0 +1,94 @@
+# The Iceberg
+
+Background canon that does not surface on-page in book 1 but binds the drafter, the plotter, and the voice-scrubber. Every fact below is *true in the world* even though no character will state it aloud in book 1.
+
+If a draft contradicts anything in this file, the draft is wrong and the iceberg holds.
+
+## Book-2 Hooks (planted but not paid off)
+
+### The Ceremony exists in other cities
+
+The Compact's other eight charter cities — Brael, Anveris, Saern Korin, Old Korin, Tirreth, Hofdal, Nerren, Mossbridge — each hold their own annual Ceremony in the same week, on staggered days, with local procedural variants (Brael: six names. Tirreth: blind Bowl drawn by the Master Teller. Old Korin: voting by hand-raise in the parish hall). The book-1 plant is a single line in a broadsheet column, in passing, read by the Petitioner-we-know in the Brass Ward coffee-house on Day 5: a notice that the Anveris Ceremony went off without commutation. He does not register the implication. The reader, on re-read after book 2, will.
+
+The deeper iceberg: the Ceremony was not invented in Vael Korin. The Compact of Stones was drafted with reference to a *prior* Ceremony in the inland city of Saern Korin (the city that Vael Korin is named for — "new Korin" to Saern Korin's old) that had been running for a hundred years *before* the Year of Knives. The Vael Korin founders adopted the form. Saern Korin's Ceremony is therefore not 100 years old but 200, and the institutional patterns the Architect has been gaming for fifty are themselves a localization of patterns gamed in Saern Korin for nearly two centuries. This is the book-2 wider net.
+
+### The Petitioner-we-know's previous lost case
+
+Three years before book 1, the Petitioner-we-know filed for a named citizen — a woman named **Veris Calden**, a Brass Ward bookseller who had been placed sixth on the list after a parish committee organized votes against her over a contested estate. The Petitioner spent four sleepless days assembling a textbook parish-fraud case. He filed. He spoke for an hour. He produced the parish-clerk's ledger showing the bloc-voting pattern. The Examining Magistrate ruled against him. Veris Calden drew the wheel on Frostmonth 8 and died on the trestle in Argent Square while the Petitioner stood at the front of the crowd.
+
+He has not understood, in three years, why his case lost. The case was clean. The ledger was clear. He has reviewed his hour of speech a hundred times.
+
+The iceberg: the Examining Magistrate who ruled against him was the Architect's protégé — appointed nine years before the Calden case, on the Architect's quiet recommendation to the Council. The Architect did not order the ruling. He did not have to. He had spent twenty years training the magistrate; the magistrate ruled the way he had been trained to rule on parish-committee cases when the committee was useful to the Architect's wider plan. Veris Calden's death was not arranged by the Architect, but her case's loss was a side-effect of the Architect's long cultivation of the bench. The Petitioner does not know this. He will discover it in book 2. The discovery will be the engine of his book-2 arc.
+
+The book-1 plant: one passing scene, ideally before Day 3, where the Petitioner mentions Calden's name in a quiet line — *I lost Calden three years ago and I have not understood it since* — and the Architect, present in the room, makes a small comforting noise without speaking.
+
+### The deeper architect behind the Architect
+
+The Architect — the on-page mentor, the conspirator — is the *operator*. He is also the *senior surviving operator*. He is not the institution's most senior architect. He was trained, fifty-five years ago when he was eighteen, by a Pearl Quarter family advocate named **Aldovan Rell** who has been dead for thirty years and whose papers are in the Iron-Lily House library. Rell taught him the Compact's deepest design — that the Ceremony's purpose was never to "name the worst" but to give the city's *organized memory* (a network of senior Pearl Quarter families, parish-clerk dynasties, and bonded clearing-house officers) a yearly opportunity to remove individuals who threatened the harbor economy or the Compact's political stability without those removals having to be argued, judged, or recorded. The Ceremony is, in this reading, the world's most morally elegant secret police: it does not arrest, it does not imprison, it does not act outside law — it merely *votes*, and the right names tend to surface.
+
+This is not what most of the network knows. Most of the network believes the Ceremony is a moral institution that, with proper care, can be tuned. Only a small inner circle — perhaps eight people across the Compact, including the Architect — understands the design. Two of those eight live in other cities. One of them is in Saern Korin and was a student of Rell's student. *That* person is the institution's true center.
+
+In book 1 this is iceberg material. The plant is the *sigil* — a small wrought-iron symbol shaped like an open palm enclosing a lily, set into the Iron-Lily House's garden gate, the Petitioner's office door-knocker (which is shaped like an open palm), and a brooch worn by Madam Vell at the Crooked Rule. Madam Vell's brooch matches the dead shipping-family seal on the bonded account that paid for the second-slot option — the same family seal Erys (or the Petitioner) will find at the dead-end of the financial trail in the mid-book parlour scene. The careful reader, when the protagonists reach the bonded-account dead-end, can match the brooch from the parlour scene to the seal on the account paperwork and infer that Madam Vell wears it because the family was hers, or her patron's, or both — and that the bonded account is therefore not as anonymous as the protagonists believe. The protagonists themselves do not, in book 1, register the match. Book 2 names what the sigil ties together.
+
+## What the system was originally designed to do that the public believes is different
+
+**Public belief:** the Ceremony exists so the city can name and execute its worst citizens, taking the impulse toward private vengeance out of private hands.
+
+**Original design (Rell, Compact of Stones era):** the Ceremony exists so the harbor economy and the Compact's political stability can be quietly maintained by a network of senior families and parish-clerks who shape the lists through long, patient, mostly-legal manipulation of the parish ballot apparatus. Private vengeance is genuinely reduced, as a side-effect; the design is not cynical at the founders' level (Rell believed the harbor economy *was* the city's life, and that protecting it through this instrument was a moral act). But the public's understanding of what they are voting on, and the founders' understanding, were never the same thing.
+
+**What the Architect believes.** The Ceremony names the worst — most years, mostly. The Ceremony also serves the secondary function — most years, mostly. He believes the secondary function is the more important of the two. He believes the harbor economy and the Compact's stability have kept Vael Korin from another Year of Knives for a hundred years; he believes the Compact would collapse without the secondary function; he believes Erys's death is the price of that collapse not happening. He is wrong, and the book proves him wrong by the end. He believes it anyway.
+
+## The Lirien Maris thread
+
+**Fourteen years ago**, a parish-charity records-keeper at the Sailmaker's Voting House — a woman named Lirien Maris — began noticing patterns in the Sailmaker's parish-clerk-written ballots that should not have been there. The clerk-written ballots, which made up roughly a third of the parish's tally, were trending in clusters of names that did not match the parish's gossip-flow. Maris kept a private ledger. She showed it to her supervisor, who reported her to the parish-bell-keeper, who reported her to a senior solicitor in the Brass Ward, who reported her — through three layers of intermediation — to the Architect.
+
+The Architect met Maris twice. He was charming and serious and concerned. He told her she had done excellent work. He told her he would investigate. He took her ledger. He returned a copy a week later with notes suggesting she had misread the data; the notes were a careful, plausible lie. She accepted them. She kept watching anyway. Three months later, she fell ill in the fever-cycle that was running through the city that year, and she died. The fever was real. Her case was unusually severe. The Architect did not arrange the fever, but he had — through an intermediary, a Pearl Quarter doctor with debts — arranged that her case be treated with the wrong tincture once she was admitted to the parish-charity ward. Her death was recorded as fever.
+
+She left a three-year-old daughter named **Erys**, and an absent husband (a stevedore named Holm Sailer; they had never married, and the daughter had taken her mother's surname). Holm Sailer raised the daughter alone for seven years, until he too died — of fever, genuinely, in the later peak of the same long fever-cycle that took Erys's godmother the year before. Erys entered the parish-charity house at ten.
+
+The Architect did not seek out the daughter. He kept loose track of her through the parish rolls, as he kept loose track of every loose thread. For fourteen years she was a name on a list that he checked twice a year and let lie.
+
+**Six months ago**, the Architect's protégé Examining Magistrate retired (the man who had ruled against the Petitioner's Calden case). The Council appointed a new magistrate — younger, sharper, more curious than her predecessor. The Architect read her early rulings and recognized, with a clarity he had not had to summon in fourteen years, that she was the kind of person who would notice patterns. Patterns like the ones Lirien Maris had noticed.
+
+**Two months ago**, the Architect made a decision he had been delaying for fourteen years. The Maris daughter — Erys — was the one external thread connecting any future investigator to Lirien Maris's name. The parish records connected them; the Sailmaker's parish-bell-keeper remembered them; a sufficiently curious magistrate could, given a starting thread, pull the rest. The Architect resolved to cut the thread.
+
+He did not act in anger. He did not act in fear. He acted as he had acted for fifty years — with patience, with procedural elegance, with a quiet sorrow for the cost. He chose the Ceremony because it was the only instrument in the city that could remove her without leaving a record of her removal as anything other than the city's own civic act. He used his fifty years of access to the parish-clerk network at the Sailmaker's Voting House to place Erys at the top of the list through clerk-cluster manipulation during the Ten Days of Naming. To take the Petitioner-we-know out of play, he engineered a manufactured case — a fabricated case file for a Brass Ward citizen, delivered through routes the Petitioner trusted — and baited his own protégé into filing an Intent for that citizen three weeks before the Reading. He then placed the same citizen in the second slot through a separate cluster of clerk-written ballots. When the Reading happened, the slot rule did the rest. He did not pay anyone to file against the Petitioner. He did not bribe a stranger. He used the Petitioner's own hand against him.
+
+He purchased one thing from Madam Vell at the Crooked Rule, three weeks before the Reading: a standing option on the second-place slot itself, paid for in cleared marks from a long-dead Pearl Quarter shipping family's bonded account. During the Silent Days, after leaked parish totals confirmed his clerk-clusters had landed the right citizen in the right place, he exercised the option — a final confirmation that bound Madam Vell to silence about the manipulation under the Crooked Rule's anonymity rules. He did not need the option to make the trap work. He bought it because Lirien Maris's daughter was the cost of his life's work, and he was not going to leave any seam.
+
+**He has not, in two months of preparation, allowed himself to think about her face.** When she meets him on Day 4 he will see her face for the first time, and he will register that she has her mother's mouth, and he will keep speaking, gently, fatherly, calm. This is the book's central betrayal. The reader will not be told most of the above in book 1. The reader will feel its shape.
+
+## Iceberg-level facts the drafter must honor
+
+1. The Architect's name. The character-designer will set it. The world reserves the convention that he is *known to the city by his house-name* (the Iron-Lily) more often than by his personal name. Quay-folk call him "the master of the Iron-Lily." Brass-Ward folk call him by his personal name. The Petitioner-we-know calls him *teacher* (or whatever the character-designer chooses).
+2. **The trap mechanic and the second-slot option.** The trap is the manufactured-case bait on the Petitioner-we-know, combined with the clerk-cluster manipulation that placed the bait's subject in the second slot. The Architect did not pay anyone to file against the Petitioner; he used the Petitioner's own hand. Three weeks before the Reading, he also purchased from Madam Vell a standing option on the second-place slot, paid in cleared marks from a long-dead Pearl Quarter shipping family's bonded account, and exercised the option during the Silent Days after parish totals leaked. He did not need the option to make the trap work; he bought it as a final seam. The Petitioner-we-know, if he ever traces the bonded account, will reach the deceased family and stop, because the family is genuinely dead and the account is genuinely a bonded trust. This is the dead-end the protagonists hit at mid-book. They will not crack the financial trail in book 1.
+3. **Madam Vell knows who paid, and her sale-rule.** She has known for three weeks. The Crooked Rule's rule is that anonymity is void if a client uses the parlour to endanger the parlour itself; Madam Vell sells only when the buyer's act threatens her operation. In book 1, the Architect's manipulation has drawn enough attention to the Crooked Rule that her own continued operation is now at risk — which is the exact condition under which she will sell. She will, in the vote-buyer's-parlour scene, sell the name to Erys for what Erys cannot pay (the cost the plotter will set). Madam Vell is not loyal to the Architect; she is loyal to her own continued operation.
+4. **The night attempt on Erys (Day 4) is NOT the Architect's order.** It is a separate actor — a parish-committee operator at the Sailmaker's Voting House who has, over the last week, become certain that the Architect's clerk-cluster manipulation will be traced back to the parish committee if Erys reaches the Plinth alive. The operator believes Erys alive at the Plinth will expose Sailmaker's clerk fraud, while Erys dead in Lamp Alley can be blamed on ordinary blind-night vengeance against the named. The operator is not protecting the Architect; the operator is protecting the parish committee from the Architect's own scheme. The Architect, on hearing of the failed attempt, is furious in a way the on-page text never quite shows.
+5. **The Petitioner-we-know's quirk.** Iceberg-reserved for the character-designer, but the world supports any tic compatible with: a single specific food eaten in the workroom, a specific never-sits-in-a-chair-normally body-position, a specific speech pattern (questions only; or third-person of himself; or always-italicized interior asides). The world's middling-tier coffee-house culture supports any of these without strain.
+6. **The Master Teller is deaf-mute by old design; no one in book 1 explains why.** (Book-2 hook.)
+
+## The first sigil sighting (for the drafter's working memory)
+
+The Petitioner-we-know's brass door-knocker, shaped like an open palm. The drafter sets this in Chapter 1 or 2, in a passing line, without comment. The Architect's garden-gate, when Erys sees it on Day 4 or 5, has the same open palm enclosing a wrought-iron lily. She does not connect them. The careful reader does. Madam Vell's brooch — third sighting — appears in the vote-buyer's-parlour scene and is described once without comment. When the protagonists later examine the bonded-account paperwork at the financial dead-end, the same wrought-iron open-palm-and-lily seal appears at the head of the trust document. The drafter describes the seal in language that echoes the brooch description verbatim. The protagonists do not register the echo in book 1; the careful reader can.
+
+The sigil is the seed of book 2. Book 1 plants it three times and lets one of the three pay off, quietly, at the bonded-account dead-end.
+
+## What the protagonists do not learn in book 1
+
+- The full Saern Korin / wider-net history.
+- Aldovan Rell's name.
+- The Architect's deeper conviction about the harbor economy.
+- The Architect's responsibility for the Calden ruling.
+- That the Architect *arranged* Lirien Maris's death. (They learn the Architect met her and took her ledger; they do not learn the wrong-tincture order.)
+- The second-slot money trail's actual origin.
+- Madam Vell's full operation.
+
+What they *do* learn, by the end of book 1:
+
+- That the trap on the Petitioner-we-know was a manufactured-case bait engineered three weeks before the Reading; that the Architect was the engineer; that the same Architect also engineered the Sailmaker's parish clerk-clusters to place his bait-citizen in the second slot and Erys at the top of the list.
+- That Erys's mother, Lirien Maris, kept a ballot-pattern ledger fourteen years ago and met the Architect twice before her death; that the ledger documented the same kind of clerk-cluster manipulation now being used against Erys. (They do not learn the Architect arranged the death.)
+- That Madam Vell sold the Architect a standing option on the second slot, and that she has told them this because the Architect's act now threatens the Crooked Rule itself.
+- That the network is wider than the Architect — at least one passing reference (a broadsheet line about an Anveris Ceremony, a sigil glimpsed three times, the brooch matching the bonded-account seal) seeds the book-2 net.
+- That the city — when given the truth on the morning of the Ceremony, from the Petitioners' Plinth, by both Erys and the Petitioner-we-know speaking in turn — will protest with enough force that the Chief Magistrate invokes the civic-order suspension. The Ceremony is suspended pending Council review. Erys does not walk away free; she walks away alive, with the case re-opened, on the first day in living memory that the Compact of Stones' suspension clause has ever been used.
+
+That is the book-1 win. The rest is book 2.

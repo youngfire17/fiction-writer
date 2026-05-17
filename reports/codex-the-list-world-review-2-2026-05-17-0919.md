@@ -1,0 +1,21 @@
+[P0] intent.md:Premise “paid an enormous anonymous sum to lock the second-place candidate's Petitioner into representing them” ? This still states the old trap mechanic and contradicts the revised manufactured-case bait plus slot-rule design. Fix: Replace with language that the Petitioner filed his own Intent for a fabricated second-place case, while the bought standing option was separate and not what bound him.
+
+[P0] intent.md:Premise “He selected her days before her name was on the list” ? History now says he only registered a rumor before the Reading and did not select Erys until the Reading made her name public. Fix: Change to “He noticed her name before the Reading, but only moved to file for her once the list was read.”
+
+[P0] series-bible/world/ceremony-and-petitioner-system.md:“The seventy-two-hour window… / Erys arrives… on Day 3… The seventy-two-hour window closes during the hearing” ? With Reading locked as Day 0 at dawn and hearings at second/fourth/sixth bell, a strict 72-hour window closes at Day 3 dawn before any normal hearing can occur. Fix: Either move Erys’s rejection hearing to Day 2, or define the filing deadline as the third bell/sixth bell on Day 3 by Charter convention.
+
+[P1] series-bible/world/ceremony-and-petitioner-system.md:“She is offered a list of available Petitioners… The seventy-two-hour window closes during the hearing. Her right… lapsed” ? If available Petitioners exist, the bible has not explained why Erys cannot name one immediately to preserve her slot. Fix: Clarify that the list is informational only and no listed Petitioner is present or willing to accept before the deadline.
+
+[P1] series-bible/world/history.md:“option is exercised seven days later, during the Silent Days” ? Three weeks before Frostmonth 1 plus seven days lands during the Days of Counting, not the Silent Days. Fix: Change “seven days later” to “after the Sealing, during the Silent Days,” or move the purchase date earlier.
+
+[P1] series-bible/world/ceremony-and-petitioner-system.md:“After the Silent Days began… the Architect did nothing further” ? Other files say he exercised the standing option during the Silent Days, so this overstates the revised trap. Fix: Change to “did nothing further to make the trap work, apart from exercising the separate standing option to bind Vell’s silence.”
+
+[P1] series-bible/world/cultures.md:Kinship “godparent died when Erys was eight; her father died two years later in the same fever-summer” ? “Two years later” cannot be the same summer. Fix: Change to “in the later peak of the same long fever-cycle.”
+
+[P1] series-bible/world/cultures.md:Power “Examining Magistrates are appointed… for nine-year terms” + iceberg Calden magistrate appointed 12 years ago and retired six months ago ? The magistrate’s term would have ended around the Calden case, not six months before book 1. Fix: Add that the magistrate was reappointed to a second term before retiring six months ago.
+
+[P1] series-bible/world/geography.md:“fourth night after the Reading (the night between Day 4 and Day 5)” ? With Reading as Day 0, the night between Day 4 and Day 5 is the fifth night after the Reading by ordinary counting. Fix: Standardize wording to “the night of Day 4, between Day 4 and Day 5,” or move the attempt to the night between Day 3 and Day 4.
+
+[P1] series-bible/world/ceremony-and-petitioner-system.md:“Frostmonth 8, dawn — the Ceremony… draw their methods” + “final speaking-hour runs from dawn until the third bell” ? The climax needs Erys speaking at dawn, but the Ceremony rules also put the condemned at the Bowl at dawn. Fix: Specify that the final Plinth hour precedes the Bowl draw, or that first-named citizens may speak under escort before the third bell.
+
+[P1] series-bible/world/ceremony-and-petitioner-system.md:Press protections “during the Days of Petition” ? The climax depends on protected publication on Frostmonth 8, which is Ceremony morning after the Days of Petition have ended. Fix: Extend the no-enjoinment protection through the final Frostmonth 8 speaking-hour.
