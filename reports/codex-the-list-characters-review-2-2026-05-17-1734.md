@@ -1,0 +1,9 @@
+[P0] `series-bible/characters/saerin-korran.md`:Resolved / `series-bible/characters/madam-vell.md`:Resolved ? Vell now gives Erys and Veren Saerin Korran's name on Day 6 evening or Day 7 morning, but Saerin's climax beat still treats the front-row smile as the moment Erys “understands,” making the identity reveal land twice. Fix: Recast the Frostmonth 8 beat so Erys enters already knowing Saerin is the buyer, and the smile confirms the doubleness of his love and betrayal rather than revealing his identity.
+
+[P1] `series-bible/characters/iselen-daran.md`:Lie / “The Architect cultivated Veld's bench-customs for nine years” ? The old nine-year duration remains, contradicting the revised twelve-year predecessor tenure. Fix: Change this to “twelve years” and align any Veld tenure references with retired six months ago after twelve years on the bench.
+
+[P1] `series-bible/characters/cast-index.md`:Eron Veld row / “Saerin's protégé of nine years on the bench” ? The cast index still preserves the rejected nine-year rulings math. Fix: Change to “Saerin's protégé of twelve years on the bench; alive in retirement.”
+
+[P1] `series-bible/characters/saerin-korran.md`:Voice / “interlude: … the girl, the protégé, the wrong tincture” ? The tightened interlude prohibitions ban “the girl” and “protégé,” but the later voice vocabulary still instructs the drafter to use them. Fix: Replace with permitted functional labels such as “the girl whose mother kept the ledger” and “the man at the green door,” and remove “protégé” from interlude vocabulary.
+
+[P1] `series-bible/characters/saerin-korran.md`:Tested / “He learns of it from his house-keeper” ? The second interlude beat still uses the banned locating relation “house-keeper,” undercutting the concrete anonymity rules. Fix: Rephrase to the allowed functional construction, e.g. “He learns it from the woman who brings the tea, carrying morning-market gossip.”

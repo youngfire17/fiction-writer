@@ -19,7 +19,7 @@ first appearance: ch 6-7 (Day 3 hearing at the Petitioner's Hall)
 ## Wound / Lie / Ghost
 
 - **Wound:** Her predecessor, Eron Veld, the magistrate who ruled against Veren's Calden case three years ago, was the Brass Ward solicitor who tutored her for the Council appointments examination eleven years ago when she was a junior clerk. She has not, in six months on the bench, allowed herself to wonder whether his rulings were as clean as his teaching. The wound is dormant.
-- **Lie:** *The bench is the bench; what came before me is not mine to relitigate.* This is a procedurally correct disposition that becomes wrong over a sufficiently long time-horizon. The Architect cultivated Veld's bench-customs for nine years on this principle: a magistrate who refuses to relitigate inherits the cultivation without doing the cultivation herself.
+- **Lie:** *The bench is the bench; what came before me is not mine to relitigate.* This is a procedurally correct disposition that becomes wrong over a sufficiently long time-horizon. The Architect cultivated Veld's bench-customs for twelve years on this principle: a magistrate who refuses to relitigate inherits the cultivation without doing the cultivation herself.
 - **Ghost:** Six months ago, the morning of her swearing-in at the Council Hall, Eron Veld attended and shook her hand. He said *the bench will keep you honest; do not let it keep you small.* She has thought about the line at least once a week since. She has not yet noticed that Veld was sworn in by Saerin Korran's recommendation.
 
 ## Competence / Contradiction / Flaw
